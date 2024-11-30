@@ -1,4 +1,4 @@
-# 0x07. React Redux action creator+normalizr
+# 0x07. React Redux action creator+normalizr New Project.
 
 `Front-end` `JavaScript` `Es6` `React`
 
