@@ -1,1 +1,1 @@
-react_redux_reducer_selector (section)
+react_redux_reducer_selector (section) Project
