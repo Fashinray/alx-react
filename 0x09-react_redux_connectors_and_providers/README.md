@@ -1,1 +1,1 @@
-Rect redux connectors and providers
+React redux connectors and providers
